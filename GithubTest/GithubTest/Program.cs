@@ -11,6 +11,8 @@ namespace GithubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Her tester Tobias");
+
+            Console.WriteLine("Her Test Tobias Igen");
         }
     }
 }
