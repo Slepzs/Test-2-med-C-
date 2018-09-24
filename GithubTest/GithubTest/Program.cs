@@ -13,6 +13,8 @@ namespace GithubTest
             Console.WriteLine("Her tester Tobias");
 
             Console.WriteLine("Her Test Tobias Igen");
+            Console.WriteLine("Her Test Tobias Igen");Console.WriteLine("Her Test Tobias Igen");
+
         }
     }
 }
