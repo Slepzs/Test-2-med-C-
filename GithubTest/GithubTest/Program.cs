@@ -15,6 +15,10 @@ namespace GithubTest
             Console.WriteLine("Her Test Tobias Igen");
             Console.WriteLine("Her Test Tobias Igen");
 
+            Test yolo = new Test(12);
+
+            Console.WriteLine(yolo);
+
         }
     }
 }
